@@ -22,4 +22,6 @@ class AppColors {
   static const Color primaryTeal = Color(0xFF009688);
   static const Color darkUnselected = Colors.white54;
   static const Color lightUnselected = Colors.black54;
+  static const Color icon = Color(0xFFF9F5EC);
+  static const Color text = Colors.white;
 }
