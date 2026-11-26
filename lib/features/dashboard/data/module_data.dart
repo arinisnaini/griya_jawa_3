@@ -37,6 +37,7 @@ const List<ModuleItem> appModules = [
   ModuleItem(
     title: "Bank Design",
     imagePath: "assets/icons/Bank-design.png",
+    route: "/bank-design"
   ),
   ModuleItem(
     title: "Semua",
